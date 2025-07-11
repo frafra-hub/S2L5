@@ -1,0 +1,1 @@
+Dato un codice si richiede allo studente di: ● Capire cosa fa il programma senza eseguirlo. ● Individuare dal codice sorgente le casistiche non standard che il programma non gestisce (esempio, comportamenti potenziali che non sono stati contemplati). ● Individuare eventuali errori di sintassi / logici. ● Proporre una soluzione per ognuno di essi.
